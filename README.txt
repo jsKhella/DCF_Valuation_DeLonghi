@@ -2,7 +2,7 @@ De'Longhi DCF valuation at FY2025
 =================================
 
 A five-year free-cash-flow (FCFF) discounted cash flow valuation of De'Longhi S.p.A. (Borsa Italiana: DLG), with scenarios, a sensitivity grid, a Monte Carlo simulation and a peer-multiple cross-check. The valuation date is 31 December 2025.
-This project employed AI for planning, generating, verifying each step. Full discolure in README_AI_USAGE.txt
+This project employed AI for planning, generating and verifying each step. Full disclosure in README_AI_USAGE.txt
 
 
 KEY RESULT
