@@ -46,7 +46,7 @@ Exit multiple (peers)           9.0 x EBITDA (weighted)
 LIMITATIONS AND DISCLAIMER
 --------------------------
 - This is a personal project of a BSc undergraduate in statistics and economics. It is not investment advice and not a buy or sell recommendation.
-- The terminal value is 86.4% of enterprise value, and WACC is only 3.11 points above terminal growth, so small changes in either move the value a lot. Across the sensitivity grid the value runs from EUR 51.6 to EUR 210.5 per share.
+- The terminal value is 86.4% of enterprise value, and WACC is only 3.11 points above terminal growth, so small changes in either move the value A LOT. Across the sensitivity grid the value runs from EUR 51.6 to EUR 210.5 per share.
 - The low WACC comes mainly from a low industry beta. Peers trade at about 9 times EBITDA, while the base DCF implies about 19 times.
 - The risk-free rate is the December 2025 average of the Italian 10-year yield (a proxy for 31 December 2025). No management targets exist after 2026. Some peers have period or lease mismatches, listed in the report.
 - Data cutoff: the share price and the market data are as at 31 December 2025. The latest source documents were published in February 2026. Free public sources only.
