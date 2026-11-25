@@ -43,10 +43,6 @@ Net shares                      149.523224 million
 Exit multiple (peers)           9.0 x EBITDA (weighted)
 
 
-REPOSITORY MAP
---------------
-
-
 LIMITATIONS AND DISCLAIMER
 --------------------------
 - This is a personal project of a BSc undergraduate in statistics and economics. It is not investment advice and not a buy or sell recommendation.
